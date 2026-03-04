@@ -1,0 +1,2 @@
+x='manikanta'
+print(x)
